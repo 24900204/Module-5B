@@ -23,7 +23,8 @@ print(sorted_arr)
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/6bcb7d83-20cf-4e81-b7af-4625d85cbd3e)
+<img width="934" height="390" alt="image" src="https://github.com/user-attachments/assets/dd0a6253-2ead-4f61-916b-abcd5e56bde6" />
+
 
 ## Result
 The program executed successfully, sorting the elements of the array column-wise in ascending order. The original array and the sorted array were both displayed.
