@@ -24,7 +24,7 @@ print(indices)
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/f44255e7-80c9-4ecd-8a78-6bdd265c37c5)
+<img width="1252" height="262" alt="image" src="https://github.com/user-attachments/assets/1d59a348-f752-425a-b472-f6fe06aacf70" />
 
 ## Result
 The program successfully finds and prints the indices where elements of x are greater than or equal to the corresponding elements in y. The result matches the expected output.
