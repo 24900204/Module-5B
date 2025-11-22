@@ -16,11 +16,13 @@ To write a Python program using **NumPy** that finds the indices where elements 
 
 ```
 import numpy as np
-x = np.array([10, 20, 30, 40, 50])
-y = np.array([15, 10, 25, 35, 45])
-indices = np.where(x >= y)[0]  
-print("Indices where elements in x are greater than or equal to corresponding elements in y:")
-print(indices)
+
+x=np.array(eval(input()))
+y=np.array(eval(input()))
+gt=np.where(x>y)
+eq=np.where(x==y)
+print(gt)
+print(eq)
 
 ```
 ## Output
