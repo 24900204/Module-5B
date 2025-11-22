@@ -14,12 +14,11 @@ To write a **NumPy** program that sorts the elements in each column of a given 2
 ## 🧾 Program
 ```
 import numpy as np
-arr = np.array([[34, 12, 45], [23, 56, 11], [10, 8, 39]])
-sorted_arr = np.sort(arr, axis=0)
-print("Original Array:")
+arr=np.array(eval(input()))
+print("Given array")
 print(arr)
-print("\nColumn-wise Sorted Array:")
-print(sorted_arr)
+print()
+print(np.sort(arr,axis=0))
 
 ```
 ## Output
