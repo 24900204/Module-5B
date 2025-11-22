@@ -24,7 +24,8 @@ print("\nUpdated Array with New Column:")
 print(updated_array)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/35850779-f086-414c-9b19-c559d83ef7c4)
+<img width="1250" height="389" alt="image" src="https://github.com/user-attachments/assets/b3453d8c-2fbb-4892-81a9-daeda590577c" />
+
 
 ## Result
 The program successfully deletes the second column and inserts the new column at the same position in the updated array. It prints both the original and updated arrays as expected.
